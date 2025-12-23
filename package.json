@@ -1,0 +1,12 @@
+{
+  "name": "BOT JASSEB HANZPIWOFFICIAL",
+  "version": "1.0",
+  "description": "telegram: @hanzxstr",
+  "main": "hanzpiw.js",
+  "scripts": {
+    "start": "node hanzpiw.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
