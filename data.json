@@ -1,0 +1,21 @@
+{
+  "premium": {},
+  "owner": [
+    "7135669179"
+  ],
+  "groups": [
+    -1003347295388
+  ],
+  "users": [],
+  "blacklist": [],
+  "ceo": [],
+  "settings": {
+    "cooldown": {
+      "default": 15
+    },
+    "maintenance": false
+  },
+  "user_group_count": {
+    "1087968824": 1
+  }
+}
